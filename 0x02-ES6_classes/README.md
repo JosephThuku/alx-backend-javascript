@@ -1,1 +1,1 @@
-This directory contains all tasks related to the project - ES6 Classes
+This directory contains solution for - ES6 Classes
