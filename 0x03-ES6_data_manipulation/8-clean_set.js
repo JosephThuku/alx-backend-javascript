@@ -1,4 +1,5 @@
 export default function cleanSet(set, string) {
   const filteredSet = [...set].filter((element) => element.startsWith(string));
-  return filteredSet.join('-');
+  const cleanedvalues = filteredSet.map((element) => element.slice(string.length));
+  return cleanedvalues.join('-');
 }
