@@ -1,5 +1,6 @@
-function displayMessage(message) {
-  console.log(message);
+/* eslint-disable */
+function displayMessage (str) {
+	console.log(str)
 }
 
 module.exports = displayMessage;

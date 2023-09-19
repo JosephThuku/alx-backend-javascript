@@ -1,1 +1,1 @@
-# Solutions to 0x06. Unittests in JS tasks
+# Solution to bunit testing
